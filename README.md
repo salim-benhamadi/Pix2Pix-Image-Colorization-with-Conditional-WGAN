@@ -48,3 +48,30 @@ To get started with the Pix2pix Colorization with WGAN and U-Net project, follow
 5. Run the Notebook: Open the `Pix2pix_Colorization_WGAN_UNet.ipynb` notebook and run the cells sequentially. The notebook provides step-by-step instructions for implementing the WGAN and U-Net architectures and training the colorization model.
 
 6. Explore Results: Once the notebook is running, you can visualize the colorized output images and explore the results. The `results/` directory
+
+## 🤝 Contributing
+
+Contributions are welcome to enhance the Solar-Panels-Segmentation-U-Net project. To contribute, follow these steps:
+
+1. Fork the Repository: Click on the "Fork" button at the top right corner of the repository page. This will create a copy of the repository in your GitHub account.
+
+2. Make Changes: Create a new branch, make your desired changes in the notebook, and add any additional features or improvements.
+
+3. Test Your Changes: Run the notebook and ensure that your modifications work correctly.
+
+4. Commit and Push: Commit your changes and push them to your forked repository:
+   ```
+   git add .
+   git commit -m "Your commit message"
+   git push origin your-branch-name
+   ```
+
+5. Create a Pull Request: Go to the original repository on GitHub and click on the "New Pull Request" button. Fill out the details and submit the pull request. Your changes will be reviewed by the project maintainers.
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## 🙏 Acknowledgments
+
+Special thanks to the developers and researchers in the field of Deep learning and GAN for their contributions and inspiration in the implementation of the Pix2Pix Image Colorization with Conditional WGAN.
