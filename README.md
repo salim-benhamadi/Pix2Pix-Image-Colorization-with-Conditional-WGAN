@@ -1,7 +1,7 @@
 # Pix2pix Colorization with WGAN and U-Net :art:
 
-![GitHub](https://img.shields.io/github/license/your-username/pix2pix-colorization-wgan-unet)
-![GitHub stars](https://img.shields.io/github/stars/your-username/pix2pix-colorization-wgan-unet?style=social)
+![GitHub](https://img.shields.io/github/license/salimhammadi15/Pix2Pix-Image-Colorization-with-Conditional-WGAN)
+![GitHub stars](https://img.shields.io/github/stars/salimhammadi15/Pix2Pix-Image-Colorization-with-Conditional-WGAN?style=social)
 
 The Pix2pix Colorization with WGAN and U-Net project aims to enhance the performance of the Pix2pix model for colorization tasks by incorporating Wasserstein GAN (WGAN) and a U-Net architecture based on residual blocks. This project utilizes a Python notebook (.ipynb) for implementation.
 
@@ -33,7 +33,7 @@ To get started with the Pix2pix Colorization with WGAN and U-Net project, follow
 
 1. Clone the Repository: Begin by cloning this repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/pix2pix-colorization-wgan-unet.git
+   git clone https://github.com/salimhammadi15/Pix2Pix-Image-Colorization-with-Conditional-WGAN.git
    ```
 
 2. Open the Jupyter Notebook: Launch Jupyter Notebook or any other compatible environment and navigate to the cloned repository.
